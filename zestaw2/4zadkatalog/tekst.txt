@@ -1,0 +1,4 @@
+Napisz program, który wykorzystując <filesystem>, poprosi o podanie ścieżki do danego katalogu,
+a następnie wypisze nazwy wszystkich zwykłych plików oraz ich rozmiar. Należy zwrócić uwagę na
+rozpoznawanie rodzajów plików tak, żeby program wypisywał tylko zwykłe pliki oraz ich rozmiar,
+a jeśli ich nie ma, odpowiednią informację
